@@ -1,0 +1,42 @@
+.siteTitle {
+    font-weight: bolder;
+    color: white;
+    font-family: 'Amatic SC', serif;
+    font-size: 150px;
+    font-weight: 500;
+    background-color: rgb(195, 226, 231);
+  }
+
+  .pancakesMastHead {
+    text-align: center;
+    width: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+  } 
+
+  body {
+    background-color: rgb(195, 226, 231);
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .pancakeNav {
+    margin-left: 5px;
+    margin-right: 5px;
+    border-bottom: 1px solid #007bff74;
+  }
+
+  .pagetitle {
+    padding-bottom: 15px;
+  }
+
+  p {
+    font-size: 30px;
+    font-weight: bolder;
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Amatic SC', serif;
+
+  }
